@@ -17,13 +17,7 @@ The Custom Image Generator app takes a textual description of an image as input 
 - Generate images based on textual descriptions.
 - Simple and intuitive web interface built with Flask and Bootstrap.
 - Easy copying of image URLs to the clipboard.
-
- **Set up OpenAI API Key:**
-    - Obtain an API key from OpenAI.
-    - Set the API key as an environment variable:
-    ```sh
-    export OPENAI_API_KEY='your_openai_api_key'  # On Windows, use `set OPENAI_API_KEY=your_openai_api_key`
-    ```
+  
 ## Workflow
 1. **User Input:**
     - The user enters a textual description of the desired image in the provided text box.
